@@ -1,4 +1,4 @@
-# Onilab Magento 2 MJML module
+# Magento 2 MJML module
 Magento 2 support MJML in email and newsletter templates.
 The module requires npm installed.
 
